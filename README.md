@@ -5,11 +5,11 @@ A Regular Expression or Regex for short is a sequence of characters that defines
 ## Table Of Contents
 - [Anchors](#Anchors)
 - [Quantifiers](#Quantifiers)
-- [Grouping Constructs](#Grouping Constructs)
-- [Character Classes](#Character Classess)
-- [The OR Operator](#The OR Operator)
+- [Grouping](#Grouping Constructs)
+- [Character](#Character Classess)
+- [The_or_Operator](#The OR Operator)
 - [Flags](#Flags)
-- [Character Escapes](#Character Escapes)
+- [Character_Escapes](#Character Escapes)
 
 
 
