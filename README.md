@@ -6,7 +6,7 @@ A Regular Expression or Regex for short is a sequence of characters that defines
 - [Anchors](#Anchors)
 - [Quantifiers](#Quantifiers)
 - [Grouping_Constructs](#Grouping_Constructs)
-- [Character](#Character Classess)
+- [Character_Classes](#Character_Classes)
 - [The_OR_Operator](#The_OR_Operator)
 - [Flags](#Flags)
 - [Character_Escapes](#Character_Escapes)
@@ -32,7 +32,7 @@ In regular expressions group constructs are used to group parts of the regex pat
 ([\da-z\.-]+): Matches any digit (\d which is equivalent to (0-9)), lowercase letter (a-z), dot, or hyphen.
 ([a-z\.]{2,6}): Matches any lowercase letter (a-z) or dot. Quantifier that matches between 2 and 6 of the preceding element.
 
-## Character Classes
+## Character_Classes
 []
 Bracket expressions or character classes are used to specifiy a set of characters that you want to match. They are enclosed ing square brackets.
 
